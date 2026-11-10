@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "stateless_lab_exam",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/paso_main.dart"
+        },
+        {
+            "name": "stateless_lab_exam (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile",
+            "program": "lib/paso_main.dart"
+        },
+        {
+            "name": "stateless_lab_exam (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release",
+            "program": "lib/paso_main.dart"
+        }
+    ]
+}
